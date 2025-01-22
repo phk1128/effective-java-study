@@ -22,12 +22,12 @@
 </details>
 
 <details>
-  <summary><a href="https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03">Chapter 03 : 모든 객체의 공통 메서드</a></summary>
+  <summary><a href="https://github.com/SangSangPlus/effective-java-study/tree/main/Chapter_03">Chapter 03 : 모든 객체의 공통 메서드</a></summary>
 
-  - [Item 10 : equals는 일반 규약을 지켜 재정의하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_10)
-  - [Item 11 : equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_11)
-  - [Item 12 : toString을 항상 재정의하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_12)
-  - [Item 13 : clone 재정의는 주의해서 진행하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_13)
+  - [Item 10 : equals는 일반 규약을 지켜 재정의하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_10_equals()%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%80%E1%85%B2%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8C%E1%85%B5%E1%84%8F%E1%85%A7_%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf)
+  - [Item 11 : equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_11_equals%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A7%E1%84%80%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AB%20hashCode%E1%84%83%E1%85%A9%20%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B2%E1%86%AB).pdf)
+  - [Item 12 : toString을 항상 재정의하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_12_%20toString%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf)
+  - [Item 13 : clone 재정의는 주의해서 진행하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_13_clone_%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5_%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
   - [Item 14 : Comparable을 구현할지 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_14)
 
 </details>
