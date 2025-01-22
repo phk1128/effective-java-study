@@ -65,9 +65,9 @@
 |[📚 Item 1 생성자 대신 정적 팩터리 메서드를 고려하라] <br> [🎥 Item 1 발표 영상] |  [📚 Item 2 생성자에 매개변수가 많다면 빌더를 고려하라] <br> [🎥 Item 2 발표 영상] |
 <img width="500px" alt="Item 3 썸네일" src="https://github.com/user-attachments/assets/5ef0b964-171f-4177-b9b7-a0718a7d4553"> | <img width="500px" alt="Item 4 썸네일" src="https://github.com/user-attachments/assets/ca07f6a1-fba1-4965-861b-bae4a5a19294"> 
 |[📚 Item 3 생성자나 열거 타입으로 싱글턴임을 보증하라] <br> [🎥 Item 3 발표 영상] | [📚 Item 4 인스턴스화를 막으려거든 private 생성자를 사용하라] <br> [🎥 Item 4 발표 영상] |
-<img width="500px" alt="Item 5 썸네일" src="https://github.com/user-attachments/assets/5ef0b964-171f-4177-b9b7-a0718a7d4553"> | <img width="500px" alt="Item 6 썸네일" src="https://github.com/user-attachments/assets/ca07f6a1-fba1-4965-861b-bae4a5a19294"> 
+<img width="500px" alt="Item 5 썸네일" src="https://github.com/user-attachments/assets/e9647d46-bb07-41ce-a6db-daac73238329"> | <img width="500px" alt="Item 6 썸네일" src="https://github.com/user-attachments/assets/580ee12a-3c17-45a8-9955-2b0c9eb1f417"> 
 |[📚 Item 5 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라] <br> [🎥 Item 5 발표 영상] | [📚 Item 6 불필요한 객체 생성을 피하라] <br> [🎥 Item 6 발표 영상] |
-<img width="500px" alt="Item 7 썸네일" src="https://github.com/user-attachments/assets/e9647d46-bb07-41ce-a6db-daac73238329"> | <img width="500px" alt="Item 8 썸네일" src="https://github.com/user-attachments/assets/580ee12a-3c17-45a8-9955-2b0c9eb1f417"> 
+<img width="500px" alt="Item 7 썸네일" src="https://github.com/user-attachments/assets/483426d5-5b23-4333-a256-253495f2d649"> | <img width="500px" alt="Item 8 썸네일" src="https://github.com/user-attachments/assets/193c2f7c-124d-438c-9226-8f9a19088f29"> 
 |[📚 Item 7 다 쓴 객체 참조를 해제하라] <br> [🎥 Item 7 발표 영상] | [📚 Item 8 finalizer와 cleaner 사용을 피하라] <br> [🎥 Item 8 발표 영상] |
 <img width="500px" alt="Item 9 썸네일" src="https://github.com/user-attachments/assets/a9d26f54-939e-4472-ac34-bf4172e52803"> | <img width="500px" alt="Item 10 썸네일" src="https://github.com/user-attachments/assets/3726721a-065d-4f17-a4ad-19244dab0f2d">
 |[📚 Item 9 try-finally보다는 try-with-resources를 사용하라] <br> [🎥 Item 9 발표 영상] | [📚 Item 10 equals는 일반 규약을 지켜 재정의하라] <br> [🎥 Item 10 발표 영상] |
