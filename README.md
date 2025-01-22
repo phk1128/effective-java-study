@@ -60,20 +60,23 @@
    
 ### 💎 발표자료
 
-<img width="500px" alt="item 1 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/7c342a69-ed3b-4c4d-a306-e351bfb68624"> | <img width="500px" alt="item 2 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/40c6abe8-0f40-4b1b-8ca6-69d95750ae24"> 
+<img width="500px" alt="item 1 썸네일" src="https://github.com/user-attachments/assets/bff7910d-77ec-4618-bade-93a94d411173"> | <img width="500px" alt="item 2 썸네일" src="https://github.com/user-attachments/assets/97f68b70-82de-45d2-88fb-2cae2f0f93dd"> 
 | :---: | :---: |
 |[📚 Item 1 생성자 대신 정적 팩터리 메서드를 고려하라] <br> [🎥 Item 1 발표 영상] |  [📚 Item 2 생성자에 매개변수가 많다면 빌더를 고려하라] <br> [🎥 Item 2 발표 영상] |
-<img width="500px" alt="Item 3 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/89901cc8-6652-4f8e-8259-ed2677c927fd"> |
-|[📚 Item 3 생성자나 열거 타입으로 싱글턴임을 보증하라] <br> [🎥 Item 3 발표 영상] |
+<img width="500px" alt="Item 3 썸네일" src="https://github.com/user-attachments/assets/5ef0b964-171f-4177-b9b7-a0718a7d4553"> | <img width="500px" alt="Item 4 썸네일" src="https://github.com/user-attachments/assets/ca07f6a1-fba1-4965-861b-bae4a5a19294"> 
+|[📚 Item 3 생성자나 열거 타입으로 싱글턴임을 보증하라] <br> [🎥 Item 3 발표 영상] | [📚 Item 4 인스턴스화를 막으려거든 private 생성자를 사용하라] <br> [🎥 Item 4 발표 영상] |
 
-[📚 Item 1 생성자 대신 정적 팩터리 메서드를 고려하라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_02/Item_01/%EC%83%9D%EC%84%B1%EC%9E%90_%EB%8C%80%EC%8B%A0_%EC%A0%95%EC%A0%81_%ED%8C%A9%ED%84%B0%EB%A6%AC_%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC_%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EC%9C%A0%ED%98%84%EC%9A%B0).md
-[🎥 Item 1 발표 영상]: https://youtu.be/QO9pVoPIdVU
+[📚 Item 1 생성자 대신 정적 팩터리 메서드를 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EB%B0%95%ED%98%95%EA%B7%A0).md
+[🎥 Item 1 발표 영상]: https://www.youtube.com/watch?v=SPslEAu3DxM
 
-[📚 Item 2 생성자에 매개변수가 많다면 빌더를 고려하라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_02/Item_02/%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80_%EB%A7%8E%EB%8B%A4%EB%A9%B4_%EB%B9%8C%EB%8D%94%EB%A5%BC_%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EC%B5%9C%EC%A4%80).md
-[🎥 Item 2 발표 영상]: https://youtu.be/jV5usyIrX0g
+[📚 Item 2 생성자에 매개변수가 많다면 빌더를 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_02_%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%20%EB%A7%8E%EB%8B%A4%EB%A9%B4%20%EB%B9%8C%EB%8D%94%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EB%B0%95%ED%98%95%EA%B7%A0).md
+[🎥 Item 2 발표 영상]: https://www.youtube.com/watch?v=UxoV5QmXF2w
 
-[📚 Item 3 생성자나 열거 타입으로 싱글턴임을 보증하라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_02/Item_03/private%EC%83%9D%EC%84%B1%EC%9E%90%EB%82%98_%EC%97%B4%EA%B1%B0_%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C_%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9E%84%EC%9D%84_%EB%B3%B4%EC%A6%9D%ED%95%98%EB%9D%BC(%EA%B0%95%EC%B2%A0%EC%9B%90).md
-[🎥 Item 3 발표 영상]: https://youtu.be/F5wguTOt78Q
+[📚 Item 3 생성자나 열거 타입으로 싱글턴임을 보증하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_03_private_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%82%E1%85%A1_%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%A5_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%87%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
+[🎥 Item 3 발표 영상]: https://www.youtube.com/watch?v=B2irvGasOHU
+
+[📚 Item 4 인스턴스화를 막으려거든 private 생성자를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_03_private_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%82%E1%85%A1_%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%A5_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%87%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
+[🎥 Item 4 발표 영상]: https://www.youtube.com/watch?v=xp8S9OzByB8
 
 ---
 <br>
