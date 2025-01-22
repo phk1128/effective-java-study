@@ -28,7 +28,7 @@
   - [Item 11 : equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_11_equals%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A7%E1%84%80%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AB%20hashCode%E1%84%83%E1%85%A9%20%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B2%E1%86%AB).pdf)
   - [Item 12 : toString을 항상 재정의하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_12_%20toString%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf)
   - [Item 13 : clone 재정의는 주의해서 진행하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_13_clone_%E1%84%8C%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5_%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
-  - [Item 14 : Comparable을 구현할지 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_14)
+  - [Item 14 : Comparable을 구현할지 고려하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_14_Comparable%EC%9D%84_%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80_%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90(%EA%B9%80%EB%AA%85%EC%A7%80).pdf)
 
 </details>
 
@@ -38,6 +38,25 @@
 > | Item 1 | Item 2 | Item 3 |Item 4 | Item 5 |Item 6 |
 > | :-:| :-: | :-: | :-: | :-: | :-: |
 > | 박형균 | 박형균 | 김명지 | 김명지 | 강철원 | 김진수 | 
+
+## **2주차** ( 01/15 (수) )
+
+> | Item 7 | Item 8 | Item 9 | Item 10 |
+> |:------:|:------:|:------:|:-------:|
+> |  김진수   |  강철원   |  박형균   |   김명지   | 
+
+## **3주차** ( 01/22 (수) )
+
+> | Item 11 | Item 12 | Item 13 | Item 14 |
+> |:-------:|:-------:|:-------:|:-------:|
+> |   박형균   |   김진수   |   강철원   |   김명지   |
+
+
+## **4주차** ( 02/03 (월) )
+
+> | Item 15 | Item 16 | Item 17 | Item 18 |
+> |:-------:|:-------:|:-------:|:-------:|
+> |   박형균   |   강철원   |   김명지   |   김진수   |
    
 ### 💎 발표자료
 
