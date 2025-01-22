@@ -7,17 +7,17 @@
 
 ## 목차
 <details>
-  <summary><a href="https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02">Chapter 02 : 객체 생성과 파괴</a></summary>
+  <summary><a href="https://github.com/SangSangPlus/effective-java-study/tree/main/Chapter_02">Chapter 02 : 객체 생성과 파괴</a></summary>
 
-  - [Item 01 : 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_01)
-  - [Item 02 : 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_02)
-  - [Item 03 : private 생성자나 열거 타입으로 싱글톤임을 보증하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_03)
-  - [Item 04 : 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_04)
-  - [Item 05 : 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_05)
-  - [Item 06 : 불필요한 객체 생성을 피하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_06)
-  - [Item 07 : 다 쓴 객체 참조를 해제하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_07)
-  - [Item 08 : finalizer와 cleaner 사용을 피하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_08)
-  - [Item 09 : try-finally보다는 try-with-resources를 사용하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_09)
+  - [Item 01 : 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EB%B0%95%ED%98%95%EA%B7%A0).md)
+  - [Item 02 : 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_02_%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%20%EB%A7%8E%EB%8B%A4%EB%A9%B4%20%EB%B9%8C%EB%8D%94%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EB%B0%95%ED%98%95%EA%B7%A0).md)
+  - [Item 03 : private 생성자나 열거 타입으로 싱글톤임을 보증하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_03_private_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%82%E1%85%A1_%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%A5_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%87%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf)
+  - [Item 04 : 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_04_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3%E1%84%92%E1%85%AA%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%86%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A7%E1%84%80%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AB_private_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf)
+  - [Item 05 : 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_05_%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%B8_%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%B5%E1%84%92%E1%85%A1%E1%84%8C%E1%85%B5_%E1%84%86%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9_%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A9%E1%86%AB_%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6_%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
+  - [Item 06 : 불필요한 객체 생성을 피하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_06_%E1%84%87%E1%85%AE%E1%86%AF%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB_%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%91%E1%85%B5%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf)
+  - [Item 07 : 다 쓴 객체 참조를 해제하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_07_%E1%84%83%E1%85%A1%20%E1%84%8A%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%20%E1%84%8E%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf)
+  - [Item 08 : finalizer와 cleaner 사용을 피하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_08_finalizer%E1%84%8B%E1%85%AA_cleaner_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%91%E1%85%B5%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
+  - [Item 09 : try-finally보다는 try-with-resources를 사용하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_09_try-finally%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20try-with-resources%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B2%E1%86%AB).pdf)
 
 </details>
 
@@ -58,5 +58,3 @@
 
 ---
 <br>
-
-
